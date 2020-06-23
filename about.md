@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the {{title.page}}. page.
+This is the {{page.title}}
 Some information about you!
 
 ### More Information
